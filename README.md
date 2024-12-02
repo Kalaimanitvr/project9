@@ -152,18 +152,4 @@ As a **data analyst**, this project emphasizes:
 ## 🏁 Conclusion
 This project demonstrates how SQL can provide **critical business insights** to improve customer engagement, sales strategies, and operational efficiency.
 
-### Key Takeaways:
-- **Customer Focus**:
-  - Engage high-value customers and re-target inactive ones.
-- **Revenue Growth**:
-  - Leverage monthly and product-level sales trends for planning.
-- **Operational Enhancements**:
-  - Automate routine processes with triggers to save time and reduce errors.
-
-### Business Impact:
-These insights enable businesses to:
-1. Enhance customer relationship management (CRM).
-2. Improve sales performance with data-driven strategies.
-3. Optimize inventory and streamline operations.
-
 ---
